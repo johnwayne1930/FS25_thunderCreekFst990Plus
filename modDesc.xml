@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+	<author>johnwayne1930</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>ThunderCreek FST990 Plus</en>
+	</title>
+	
+	<description>
+		<en><![CDATA[ThunderCreek FST990 Plus
+ 
+Price: 29.500 $
+Fillvolume: 3750 L
+Filltype: Diesel
+Configurations: base color, tires
+]]></en>
+		<de><![CDATA[ThunderCreek FST990 Plus
+
+Preis: 29.500 €
+Füllvolumen: 3750 L
+Fülltyp: Diesel
+Konfigurationen: Grundfarben, Reifen
+]]></de>
+	</description>
+	
+	<iconFilename>icon_fst990.dds</iconFilename>
+	<multiplayer supported="true"/>
+	
+	 <storeItems>
+		<storeItem xmlFilename="fst990.xml"/>
+	</storeItems>
+</modDesc>
